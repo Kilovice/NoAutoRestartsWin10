@@ -1,0 +1,13 @@
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\bin\Debug\NoAutoRestartsWin10.exe.config
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\bin\Debug\NoAutoRestartsWin10.exe
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\bin\Debug\NoAutoRestartsWin10.pdb
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\obj\Debug\NoAutoRestartsWin10.csprojResolveAssemblyReference.cache
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\obj\Debug\NoAutoRestartsWin10.Form1.resources
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\obj\Debug\NoAutoRestartsWin10.Form2.resources
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\obj\Debug\NoAutoRestartsWin10.Form3.resources
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\obj\Debug\NoAutoRestartsWin10.Properties.Resources.resources
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\obj\Debug\NoAutoRestartsWin10.csproj.GenerateResource.Cache
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\obj\Debug\NoAutoRestartsWin10.exe
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\obj\Debug\NoAutoRestartsWin10.pdb
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\obj\Debug\NoAutoRestartsWin10.Form4.resources
+c:\users\throne\documents\visual studio 2017\Projects\NoAutoRestartsWin10\NoAutoRestartsWin10\obj\Debug\NoAutoRestartsWin10.Form5.resources
